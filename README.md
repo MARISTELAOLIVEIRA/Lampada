@@ -1,4 +1,4 @@
-# Lâmpada interativa
+# Lâmpada interativa 💡
 
 Uma página web simples e interativa para praticar os fundamentos de **HTML, CSS e JavaScript**. Clique no botão para acender ou apagar a lâmpada e veja a aparência da página mudar junto com o estado da luz.
 
