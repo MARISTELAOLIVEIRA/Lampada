@@ -1,6 +1,13 @@
-# Minha primeira página no ar
+# Lâmpada interativa
 
-Uma página simples e interativa: clique no botão para acender ou apagar a lâmpada.
+Uma página web simples e interativa para praticar os fundamentos de **HTML, CSS e JavaScript**. Clique no botão para acender ou apagar a lâmpada e veja a aparência da página mudar junto com o estado da luz.
+
+## Funcionalidades
+
+- Alterna entre lâmpada acesa 💡 e apagada 🌑.
+- Atualiza o texto do botão e a mensagem de estado.
+- Muda as cores da página quando a lâmpada acende.
+- Funciona diretamente no navegador, sem instalação de dependências.
 
 ## Tecnologias
 
@@ -10,6 +17,18 @@ Uma página simples e interativa: clique no botão para acender ou apagar a lâm
 
 ## Como executar
 
-Abra o arquivo `index.html` em um navegador. Não é necessário instalar dependências.
+1. Baixe ou clone este repositório.
+2. Abra o arquivo `index.html` em um navegador.
+3. Clique em **Ligar** para acender a lâmpada; clique em **Desligar** para apagá-la.
 
-## Profª Maristela 
+Não é necessário instalar dependências nem iniciar um servidor.
+
+## Estrutura do projeto
+
+- `index.html` — estrutura e conteúdo da página.
+- `estilo.css` — estilos e cores dos estados da página.
+- `script.js` — comportamento do interruptor e atualização da lâmpada.
+
+---
+
+Projeto educativo da Profª Maristela.
